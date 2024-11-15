@@ -1,0 +1,12 @@
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'clear_temp_folder': Command '['sudo', 'systemctl', 'restart', 'clear_temp_folder']' returned non-zero exit status 1.
+Temporary folder '/home/gideon/Desktop/cron_jobs/temp_folder' cleared successfully.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'clear_temp_folder': Command '['sudo', 'systemctl', 'restart', 'clear_temp_folder']' returned non-zero exit status 1.
+Temporary folder '/home/gideon/Desktop/cron_jobs/temp_folder' cleared successfully.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Error restarting service 'clear_temp_folder': Command '['sudo', 'systemctl', 'restart', 'clear_temp_folder']' returned non-zero exit status 1.
+Temporary folder '/home/gideon/Desktop/cron_jobs/temp_folder' cleared successfully.
